@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.nav_list a{
+  color: white;
+}
+.nav_list a :hover{
+  color: rgb(225, 255, 0);
+}
 
 .App-logo {
   height: 40vmin;
